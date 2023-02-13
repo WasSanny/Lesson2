@@ -1,0 +1,15 @@
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.csproj.AssemblyReference.cache
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.AssemblyInfoInputs.cache
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.AssemblyInfo.cs
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.csproj.CoreCompileInputs.cache
+C:\Users\WS\Documents\Lesson2C#\Les3\bin\Debug\net6.0\Les3.exe
+C:\Users\WS\Documents\Lesson2C#\Les3\bin\Debug\net6.0\Les3.deps.json
+C:\Users\WS\Documents\Lesson2C#\Les3\bin\Debug\net6.0\Les3.runtimeconfig.json
+C:\Users\WS\Documents\Lesson2C#\Les3\bin\Debug\net6.0\Les3.dll
+C:\Users\WS\Documents\Lesson2C#\Les3\bin\Debug\net6.0\Les3.pdb
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.dll
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\refint\Les3.dll
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.pdb
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\Les3.genruntimeconfig.cache
+C:\Users\WS\Documents\Lesson2C#\Les3\obj\Debug\net6.0\ref\Les3.dll
