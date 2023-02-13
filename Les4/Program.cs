@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Метод (void) заполнения массива и метод печати на экран!!
 
 void FillArray(int[] collection)                  // Метод void, который создает массив
 {
@@ -24,9 +24,9 @@ void PrintArray(int[] col)                        // Метод void, котор
   }
 }
 
-int[] array = new int[10];
+int[] array = new int[10];                        // new int[10] - создаем массив из 10 элементов (по умолчанию он наполнен нолями)
 
 FillArray(array);                                 // Вызываем метод
 PrintArray(array);                                // Вызываем метод
 
-//int[] array = new int[10]; // new int[10] - создаем массив из 10 элементов (по умолчанию он наполнен нолями)
+// new int[10] - создаем массив из 10 элементов (по умолчанию он наполнен нолями)
